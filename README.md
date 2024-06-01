@@ -21,5 +21,6 @@
 
    Основні функції
    Гра в хрестики-нулики: Основна функціональність проекту - гра в класичні "Хрестики-Нулики".
+   [![Название видео](https://img.youtube.com/vi/ВАШ_ИДЕНТИФИКАТОР/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
    https://www.youtube.com/embed/dQw4w9WgXcQ
