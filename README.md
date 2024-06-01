@@ -26,7 +26,5 @@ This project is an implementation of the "Tic-Tac-Toe" game in C++. The project 
 
 
 
-   
-This README provides all the necessary information for users of your project. You can add it to the root directory of your GitHub repository.
 
 
