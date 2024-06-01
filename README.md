@@ -9,9 +9,9 @@ This project is an implementation of the "Tic-Tac-Toe" game in C++. The project 
 
 1. Download the `main.cpp` file from the repository.
 2. Compile the file using any C++ compiler. For example, using g++:
-      ```bash
+   ```bash
       g++ main.cpp -o tic-tac-toe
-      ```
+   ```
 ## Usage
    After compilation, execute the following command to start the game:
    ```bash
