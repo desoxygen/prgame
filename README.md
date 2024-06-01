@@ -24,4 +24,3 @@
 
    [![Tic-tac-toe](https://img.youtube.com/vi/a9FJILejoGM/maxresdefault.jpg)](https://www.youtube.com/watch?v=a9FJILejoGM)
 
-   https://www.youtube.com/embed/dQw4w9WgXcQ
