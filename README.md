@@ -21,6 +21,7 @@
 
    Основні функції
    Гра в хрестики-нулики: Основна функціональність проекту - гра в класичні "Хрестики-Нулики".
-   [![Название видео](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+   [![Tic-tac-toe](https://img.youtube.com/vi/a9FJILejoGM/maxresdefault.jpg)](https://www.youtube.com/watch?v=a9FJILejoGM)
 
    https://www.youtube.com/embed/dQw4w9WgXcQ
