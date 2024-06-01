@@ -12,16 +12,16 @@ This project is an implementation of the "Tic-Tac-Toe" game in C++. The project 
    ```bash
    g++ main.cpp -o tic-tac-toe
    ```
-##Usage
+## Usage
    After compilation, execute the following command to start the game:
    ```bash
-   ./tic-tac-toe
+      ./tic-tac-toe
    ```
    The game will prompt you to enter the coordinates x and y to place your move on the game board.
 
-##Main Features
+## Main Features
    Tic-tac-toe game: The main functionality of the project is playing the classic "Tic-Tac-Toe" game.
-##Video(Example)
+## Video(Example)
    [![Tic-tac-toe](https://img.youtube.com/vi/a9FJILejoGM/maxresdefault.jpg)](https://www.youtube.com/watch?v=a9FJILejoGM)
 
 
